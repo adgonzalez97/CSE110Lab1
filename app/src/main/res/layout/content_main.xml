@@ -30,7 +30,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:text="@string/cse_110"
-        android:textColor="@color/colorPrimary"
+        android:textColor="@color/colorAccent"
         android:textSize="@dimen/font2" />
 
     <TextView
@@ -39,7 +39,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:text="@string/software"
-        android:textColor="@color/SoftwareGreen"
+        android:textColor="@android:color/holo_blue_bright"
         android:textSize="@dimen/font1" />
 
     <TextView
@@ -48,7 +48,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:text="@string/spring"
-        android:textColor="@android:color/black"
+        android:textColor="@android:color/holo_blue_bright"
         android:textSize="@dimen/font1" />
 
     <TextView
@@ -57,7 +57,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:text="@string/my_name"
-        android:textColor="@android:color/transparent"
+        android:textColor="@android:color/black"
         android:textSize="@dimen/font1"/>
 
     <Button
