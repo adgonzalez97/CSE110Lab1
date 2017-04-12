@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CSE110Lab1</string>
+    <string name="welcome">Welcome To</string>
+    <string name="cse_110">CSE 110</string>
+    <string name="software">Software Engineering</string>
+    <string name="spring">Spring 2017</string>
+    <string name="my_name">Anthony Gonzalez</string>
+    <string name="show">SHOW MY NAME</string>
+    <string name="hide">HIDE MY NAME</string>
+    <string name="action_settings">Action Settings</string>
+</resources>
